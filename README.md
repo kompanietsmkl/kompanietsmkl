@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Front-End Developer</h2>
+<h3 align="center">СE student</h2>
 
 <h3 align="left">Skills</h2>
 
